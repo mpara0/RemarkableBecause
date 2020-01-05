@@ -1,7 +1,7 @@
 # RemarkableBecause
 Our website for #IAmRemarkable for Google CSSI 2019
 
-![stack Overflow](https://drive.google.com/file/d/1yDKKcyoXbOyyy8CTrfO22_C7yB4Ya_Bq/view?usp=sharing)
+
 
 
 
