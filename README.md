@@ -1,9 +1,7 @@
 # RemarkableBecause
 Our website for #IAmRemarkable for Google CSSI 2019
 
-
-
-
+Link: http://i-am-remarkable-because.appspot.com/
 
 ## About the Project 💻
 The site is inspired by Google's <a href = "https://iamremarkable.withgoogle.com/"> #IAmRemarkable initiative </a> which aims employers to do self-promotion. 
