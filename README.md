@@ -1,6 +1,8 @@
 # RemarkableBecause
 Our website for #IAmRemarkable for Google CSSI 2019
 
+![Image of Yaktocat](https://drive.google.com/file/d/1yDKKcyoXbOyyy8CTrfO22_C7yB4Ya_Bq/view?usp=sharing)
+
 ## About the Project 💻
 The site is inspired by Google's <a href = "https://iamremarkable.withgoogle.com/"> #IAmRemarkable initiative </a> which aims employers to do self-promotion. 
 
@@ -12,7 +14,11 @@ The site is inspired by Google's <a href = "https://iamremarkable.withgoogle.com
 * Finally the user may find helpful information on the <i> resources page and help page </i>
 
 ## Tools 🛠️
-Google App Engine, AJAX + Datastore, Healthruwords API, HTML/CSS, and Python
+* Google App Engine
+* AJAX + Datastore
+* Python
+* Healthruwords API
+* HTML and CSS
 
 ## My Contributions 👩‍💻
 * Oversaw the idealization and prototyping of the application
