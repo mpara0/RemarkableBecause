@@ -1,7 +1,7 @@
 # RemarkableBecause
 Our website for #IAmRemarkable for Google CSSI 2019
 
-![Image of Yaktocat](https://drive.google.com/file/d/1yDKKcyoXbOyyy8CTrfO22_C7yB4Ya_Bq/view?usp=sharing)
+
 
 ## About the Project 💻
 The site is inspired by Google's <a href = "https://iamremarkable.withgoogle.com/"> #IAmRemarkable initiative </a> which aims employers to do self-promotion. 
