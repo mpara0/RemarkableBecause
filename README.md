@@ -1,5 +1,5 @@
 # RemarkableBecause
-Our website for #IAmRemarkable
+Our website for #IAmRemarkable for Google CSSI 2019
 
 ## About the Project
 The site is inspired by Google's #IAmRemarkable initiative which aims employers to do self-promotion. 
